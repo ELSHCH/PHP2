@@ -8,7 +8,7 @@
 </head>
 <body>
 <h2>Добавить новость</h2>
-<form action="<?php echo __DIR__ .'/controllers/AdminController.php;' ?>" method="post">
+<form action="/../controllers/AdminController.php" method="post">
     <table>
         <tr>
             <td><label for="title">Заголовок</label></td>
@@ -23,5 +23,5 @@
         </tr>
     </table>
     <div>
-        <a href="<?php echo __DIR__ .'/views/all.php'; ?>">На главную</a>
+        <a href="/../views/all.php"> На главную</a>
     </div>
