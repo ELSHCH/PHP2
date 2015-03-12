@@ -1,0 +1,8 @@
+{
+  "require": {
+    "phpmailer/phpmailer": "5.2.*"
+  },
+  "require": {
+    "avverix/phptimer": "5.2.*"
+  }
+}
